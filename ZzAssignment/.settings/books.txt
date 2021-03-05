@@ -1,0 +1,9 @@
+name,price,author
+Thermodynamics,1000,Henry
+physics,200,Albert
+algebra,800,Newton
+MentalHealth,765,Joshna
+java,1000,Cian
+c,200,Michael
+c++,400,Bashi
+python,567,Lucas

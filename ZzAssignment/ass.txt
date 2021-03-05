@@ -1,0 +1,9 @@
+studentId firstName LastName
+8,sai,kumar
+7,akhula,veerabomala
+6,jashu,sommarapu
+5,ravi,teja
+4,ram,kumar
+3,raj,kumar
+1,ravi,babu
+1,jaffa,kumar
